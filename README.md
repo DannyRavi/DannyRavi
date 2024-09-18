@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in astronomy , mathematical ,AI , hardware , signal processing , computional physic
+- 👀 I’m interested in astronomy , mathematical ,AI , hardware , signal processing , computational  physics.
 - 🌱 I’m currently learning "cloud software engineer" and "AI"
 
 <!---
